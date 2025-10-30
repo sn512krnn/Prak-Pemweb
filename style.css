@@ -1,0 +1,62 @@
+body {
+    font-family: Calibri, sans-serif;
+    line-height: 2;
+    color: #000;
+    background-color: #fff;
+    text-align: center;
+}
+
+nav {
+    background-color: #8080ff;
+    padding: 5px;
+    margin: 5px;
+}
+
+nav a {
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #c0c0ff;
+}
+
+h2 {
+    background-color: #408040;
+    padding-left: 10px;
+    color: #fff
+}
+
+#studi a {
+    background-color: #8080ff;
+    color: #fff;
+    padding: 5px;
+    text-decoration: none;
+}
+
+#studi a:hover {
+    text-decoration: underline;
+}
+
+#kontak p {
+    background-color: #8080ff;
+    display: inline-block;
+    padding: 0 5px;
+    margin: 0 5px;
+}
+
+#kontak a {
+    text-decoration: none;
+    padding-left: 5px;
+    color: #fff
+}
+
+#kontak a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #404040;
+    color: #fff;
+}
